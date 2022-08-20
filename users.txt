@@ -1,2 +1,1 @@
 var connectionsCount=20
-var pipesCount=200
